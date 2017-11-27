@@ -13,6 +13,12 @@ public class GoodsModel {
     private Bitmap mGoodsBitmap;
 
     public Bitmap getmGoodsBitmap() {
+		
+		
+		
+		
+		
+		
         return mGoodsBitmap;
     }
 
